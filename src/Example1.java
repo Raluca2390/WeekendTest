@@ -3,7 +3,7 @@
  */
 public class Example1 {
     public static void main(String[] args) {
-        System.out.println("GoodBye!");
+        System.out.println("Good1Bye!");
 
         int suma=Calc.add(2,3);
         System.out.println(suma);
