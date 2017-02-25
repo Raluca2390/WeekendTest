@@ -5,8 +5,8 @@ public class Example1 {
     public static void main(String[] args) {
         System.out.println("GoodBye!");
 
-        int sum=Calc.add(2,3);
-        System.out.println(sum);
+        int suma=Calc.add(2,3);
+        System.out.println(suma);
 
     }
     /*metoda noua */
